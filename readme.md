@@ -1,3 +1,4 @@
+![title image](oneterm.png)
 # Windows Terminal Config
 Keep all your terminals in one place
 ___
